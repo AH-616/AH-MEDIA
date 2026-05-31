@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/assets/logo.png" group-title="Welcome To AH Stream",AH STREAM INTRO
+https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/assets/intro%20L.mp4
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/BTV.png" group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
@@ -121,7 +125,8 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Zee%20Bangla%20Cinema.png" group-title="MOVIE",ZEE BANGLA CINEMA
 https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=cff60e26e787d6e6a73290c69a064c820ea447ac-b9114379264877d3a4251ec5b2fe52d0-1780134843-1780124043
 
-:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/jalshamovies.png" group-title="MOVIE",JALSHA MOVIES
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/jalshamovies.png" group-title="MOVIE",JALSHA MOVIES
+https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Star%20Jalsha.png" group-title="INDIAN",STAR JALSHA
 #http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -144,7 +149,8 @@ http://103.253.18.58:8000/play/a00l
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Sonytv.png" group-title="INDIAN",SONY TV
 http://103.253.18.58:8000/play/a00f
 
-:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/SonySAB.png" group-title="INDIAN",SONY SAB
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/SonySAB.png" group-title="INDIAN",SONY SAB
+https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/ZeeTV.png" group-title="INDIAN",ZEE TV
 #https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/zeetv/tracks-v1a1/mono.m3u8
@@ -156,18 +162,23 @@ http://103.253.18.58:8000/play/a01j
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/SonyMax.png" group-title="MOVIE",SONY MAX
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_max/index.m3u8?token=6c1477745d6b967cdb95e07bf95cfe675761dd4c-b154ddbd7366345e13b3f75ba55208d6-1780136120-1780125320
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/StarGold.png" group-title="MOVIE",STAR GOLD
+#http://103.99.249.139/stargold/index.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/ZeeAction.png" group-title="MOVIE",ZEE ACTION
 https://edge2.roarzone.net:8447/roarzone/edge3/zee_action/index.m3u8?token=f249a5c8b18fd4f4c36b2c1275c601214ae3d6ca-3adc54d5e753f2d7fd61345318d61b67-1780136120-1780125320
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Zeecinema_1.png" group-title="MOVIE",ZEE CINEMA
 https://redbooks.site/gt.php?url=https://tv.roarzone.net/player.php?stream=edge3/zee_cinema_hd
 
-:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/HungamaTV.png" group-title="KIDS",HUNGAMA TV
+##EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/HungamaTV.png" group-title="KIDS",HUNGAMA TV
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Nickelodeon.png" group-title="KIDS",NICK
 http://103.253.18.58:8000/play/a01c
 
-:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/sonic.png" group-title="KIDS",SONIC
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/sonic.png" group-title="KIDS",SONIC
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/CartoonNetwork.png" group-title="KIDS",CN
 http://103.253.18.58:8000/play/a04k
@@ -222,5 +233,5 @@ http://119.156.228.231:9983/stream/channelid/679185749?ticket=DED82FB8AE85893524
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Fifaplus.png" group-title="SPORTS",FIFA+
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
 
-:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/beinsports1.png" group-title="SPORTS",BEIN SPORTS 1
+##EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/beinsports1.png" group-title="SPORTS",BEIN SPORTS 1
 
