@@ -65,6 +65,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/EkusheyTelevision.png" group-title="BANGLA",EKUSHEY TELEVISION 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Starnews.png" group-title="BANGLA",STAR NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/GTV.png" group-title="BANGLA",GTV
 #https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
