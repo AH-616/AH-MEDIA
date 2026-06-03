@@ -198,10 +198,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Pogo.png" group-title="KIDS",POGO
 https://redbooks.site/gt.php?url=https://tv.roarzone.net/player.php?stream=edge3/pogo_sd
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/AnimalPlanet.png" group-title="INFOTAINMENT",
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/AnimalPlanet.png" group-title="INFOTAINMENT",ANIMAL PLANET
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Discovery.png" group-title="INFOTAINMENT",
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Discovery.png" group-title="INFOTAINMENT",DISCOVERY 
 #https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #http://103.229.254.25:7001/play/a071/index.m3u8
