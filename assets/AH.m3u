@@ -114,7 +114,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/TSports.png" group-title="SPORTS",T SPORTS 
 #https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Colors%20Bangla.png" group-title="INDIAN",COLORS BANGLA
 https://catchup.yuppcdn.net/amazonv2/38/preview/colorsbanglaus/master/chunklist.m3u8?hdnts=st=1780133505~exp=1780134105~acl=!*/38/preview/colorsbanglaus/*!yuppTVCom_5_-1_607380305836403c_US_57.151.138.144/payload/yuppTVCom_5_-1_607380305836403c_US_57.151.138.144/*~hmac=85368d695c1aa5923a9398704ed7e401fee06ec906c627ed6d96d581d8388734&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=BEN&ads.content_genre=ENT&ads.channel=6887&ads.channel_name=ColorsBanglaUS&ads.network_name=yupptv&ads.user=0
