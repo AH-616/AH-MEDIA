@@ -4,7 +4,8 @@ https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/assets/intro%20L.mp4
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/BTV.png" group-title="BANGLA",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/ATNBangla.png" group-title="BANGLA",ATN BANGLA
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
@@ -81,7 +82,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/SomoyTV.png" group-title="BANGLA",SOMOY TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Channel24.png" group-title="BANGLA",CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -128,7 +130,8 @@ https://catchup.yuppcdn.net/amazonv2/38/preview/colorsbanglaus/master/chunklist.
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/Zee%20Bangla%20Cinema.png" group-title="MOVIE",ZEE BANGLA CINEMA
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=cff60e26e787d6e6a73290c69a064c820ea447ac-b9114379264877d3a4251ec5b2fe52d0-1780134843-1780124043
+#https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla_cinema/index.m3u8?token=cff60e26e787d6e6a73290c69a064c820ea447ac-b9114379264877d3a4251ec5b2fe52d0-1780134843-1780124043
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/AH-616/AH-MEDIA/main/logos/jalshamovies.png" group-title="MOVIE",JALSHA MOVIES
 https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
