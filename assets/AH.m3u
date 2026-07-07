@@ -241,3 +241,7 @@ https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Argentina vs Egypt Toffee
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783524306~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5EPeRjqC4pdh1IIlHW8W5m24an5C2xrBgsyOrsIHthip2kjh8AhFG_1Sqmq7Cyr_-2MVi4HG70LE1QbZyYUMX4J
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports oo
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
